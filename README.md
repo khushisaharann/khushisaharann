@@ -23,16 +23,18 @@ Cybersecurity Enthusiast • Computer Science Student • Problem Solver
 ---
 
 ## 🧪 TryHackMe
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/khushisaharann.png" />
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/khushisaharann.png" alt="TryHackMe Badge" />
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=khushisaharann&show_icons=true&theme=tokyonight" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khushisaharann&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
+
 
 ---
 
