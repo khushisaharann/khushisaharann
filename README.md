@@ -7,11 +7,10 @@ Cybersecurity Enthusiast • Computer Science Student • Problem Solver
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science student  
+- 🎓 Computer Science undergrad  
 - 🔐 Interested in Cybersecurity & Problem Solving  
 - 🌱 Currently learning Data Structures and Cybersecurity concepts  
 - 🎯 Goal: Become a skilled Cybersecurity Professional  
-- ⚡ I enjoy building projects and turning ideas into reality  
 
 ---
 
@@ -19,28 +18,6 @@ Cybersecurity Enthusiast • Computer Science Student • Problem Solver
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,bash" />
 </p>
-
----
-
-## 🧪 TryHackMe
-<p align="center">
-<a href="https://tryhackme.com/p/khushisaharann">
-<img src="https://img.shields.io/badge/TryHackMe-Visit%20Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-</p>
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushisaharann&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisaharann&theme=tokyonight" />
-</p>
-
 
 ---
 
